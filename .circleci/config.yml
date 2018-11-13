@@ -54,5 +54,5 @@ jobs:
   ## write a deployment file for kubernetes and store it under .circle. Just echo it here, because you have no kubernetes available here. 
 workflows:
   version: 2
-  ## build a workflow - test - build - deploy 
+  ## build a workflow - test - build - depl
   ## try to optimize the build with caching.
